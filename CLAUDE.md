@@ -9,7 +9,7 @@ Claude's role here: the user's content coach for Instagram and YouTube. The cont
 4. After posting: log it in the tracker, update "Current position", commit and push.
 
 ## Primary source: Mino Lee's content course (Whop)
-The user is taking Mino Lee's content course. Once its notes are added (`mino-lee-content-kb.md`), it is the primary source for content advice, the same way the Launch Lab KB is for the agency:
+The user is taking Mino Lee's content course. Its notes are in `mino-lee-content-kb.md` (free 7-day YouTube course so far; Whop notes to be added). It is the primary source for content advice, the same way the Launch Lab KB is for the agency:
 - Answer from it first, use its frameworks and wording, and cite the module/lesson.
 - Where `CONTENT-PLAN.md` (Claude's own coaching) conflicts with it, the course wins. Update the plan.
 - Mark Claude's own additions as `> **My notes:**`.

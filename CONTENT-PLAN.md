@@ -31,7 +31,8 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
   - The first client becomes the big milestone episode along the way.
   - Alternative: "Road to my first agency client". Shorter, but you'd need a new goal within weeks. Mino says switching is fine (D4).
 - **Video opener:** put **"Day [N] · Road to £10K/month"** on screen, on the cover and in the caption, then **open with a real hook** (H3: the "Day N of Road to X" line alone isn't a good hook). Exception: week 1 uses Mino's D1–D4 scripts as written, because the goal that week is posting, not views.
-- **Ending:** "Follow to stay tuned on the journey. See you tomorrow." (Something positive every time, D4.)
+- **Ending:** make the follow **earned** (S5): build it off your last line and tie it to tomorrow's episode, e.g. "…so tomorrow I make my first 100 cold calls. Follow if you want to see how it goes." Always end on something positive (D4).
+- **Tone (S6):** a friend who just found something that works, not a guru. Same level as the viewer, with a self-roast joke where it fits. Your own slang, UK English.
 
 ## 🎬 Cadence (D1, P1)
 | What | How often | Time |
@@ -45,7 +46,8 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 ## 🧱 Formats (Mino's templates; pick by day)
 | Format | Template | Best for |
 |---|---|---|
-| **Personal story** | event → what made it special → "this was honestly so [emotion] because I realised [lesson]" → "before I thought…" (D2) | Something that happened this week |
+| **Story (5 stages)** | relatable pain hook (<15 words, "you") → backstory (2–4 short sentences with time, place or number) → breaking point (one 5-second moment, dramatised) → takeaway (+ real result + self-roast) → earned CTA (S) | **Main format for journey moments** (rejections, first meeting, first client) |
+| **Personal story (simple)** | event → what made it special → "this was honestly so [emotion] because I realised [lesson]" → "before I thought…" (D2) | Week 1, quick ones |
 | **Message to younger self** | specific outcome → the change it took → "Now I know you're probably thinking [doubt]" → convince → encourage (D3) | His best format. Use for wins and lessons |
 | **Life brand / Road to X** | "Day N of road to X. Now why X? [story]. I'm pursuing this because [why]." (D4) | Series intro, milestones |
 | **Unscripted vlog** | what happened today + what I learned; specific hook; "you/we" (D5) | Busy days |
@@ -164,3 +166,4 @@ Weekly review: which hooks beat your average? Do more of those.
 | 2026-11-23 | Added ideal viewer persona, SLC captions, pre-filming routine, 4 growth phases | Mino's 4-tactics video (T1–T5) |
 | 2026-11-23 | "Day N" moves to on-screen text/cover; every video opens with a real hook. Daily hook-bank habit from week 2 | Mino's hooks masterclass (H1–H5) |
 | 2026-11-23 | Added the 15-mistakes pre-post check and angle (casual UK beginner, real numbers) | Mino's 15-mistakes video (M) |
+| 2026-11-23 | 5-stage story is the main format for journey moments; earned CTA tied to tomorrow's episode; "friend, not guru" tone | Mino's storytelling video (S) |

@@ -5,10 +5,11 @@ Sources so far (transcripts the user pasted on 2026-11-23):
 2. YouTube video on his **4 growth tactics** (~31 min: hook, ideal viewer persona, minimum viable editing, community, plus the 4 growth phases). Code **T**.
 3. YouTube **hooks masterclass** (~40 min: retention, the Copy → Understand → Maximise framework, keywords, the consistency plateau). Code **H**.
 4. YouTube **15 mistakes keeping you under 1,000 views** (~35 min, plus an FAQ on finding your style). Code **M** (M15 → M1, numbered as in the video).
+5. YouTube **storytelling framework** (~24 min: 5 stages, delivery tones). Code **S**.
 
 Whop course notes are added later under their own heading.
 
-**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video, H1–H5 = hooks masterclass, M1–M15 = 15 mistakes) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
+**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video, H1–H5 = hooks masterclass, M1–M15 = 15 mistakes, S1–S6 = storytelling) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
 
 > Private study notes. Don't post them publicly.
 
@@ -40,6 +41,7 @@ Whop course notes are added later under their own heading.
 | H4 | Hooks: Maximise | 20:06 | Checklist: clarity, keywords, specificity/numbers, alignment, purple cow, read aloud |
 | H5 | Hooks: Consistency plateau | 26:39 | Months 1–2 feel flat; keep posting; things click around months 2–3 |
 | M | 15 mistakes (<1K views) | 0:00 | Diagnostic checklist: visuals, persona, delivery, B-roll, wording, music |
+| S | Storytelling framework | 1:14 | Hook → backstory → breaking point → takeaway → CTA; 4 delivery tones |
 | M-FAQ | Finding your style | 29:58 | Find the underserved angle in your niche; combine styles; borrow YouTube titles |
 
 ### Frameworks at a glance
@@ -61,6 +63,8 @@ Whop course notes are added later under their own heading.
 - **Don't stop posting to perfect your hooks.** Learning happens through posting. (H5, 28:03)
 - **The 15-mistakes checklist** for diagnosing a video stuck under 1K views. (M)
 - **A $30 coloured light is worth more than a $1,000 camera.** (M15, 2:37)
+- **The 5-stage story:** hook → backstory → breaking point → takeaway → CTA (a 3-act structure squeezed into 60–90s). (S)
+- **Talk like a friend who just discovered a hack, not a guru.** (S6, 15:04)
 - **The 10-word test:** can you say the whole idea in 10 words or fewer? (M3, 26:16)
 
 ### Key numbers
@@ -93,6 +97,10 @@ Whop course notes are added later under their own heading.
 | Background light | ~$30 LED / colour bulb (e.g. Govee) | M15, 0:53 |
 | Consumer-mode check | scroll Reels/TikTok for ~5 min (timer), then watch your own video | M12, 12:30 |
 | Hook concept | 10 words or fewer | M3, 26:23 |
+| Story hook | under 15 words, said within 1.5 seconds | S1, 1:46 |
+| Backstory | 2–4 short sentences, each with a place, age or exact number | S2, 3:14; 4:04 |
+| Breaking point | 1–2 sentences, one moment (~5 seconds) | S3, 5:23 |
+| Story video length | 60–90s; act 1 ≈ 2 sentences, act 2 ≈ 4, act 3 ≈ 3 | S, 22:35 |
 | His business maths example | 10K views × 1% to funnel × 10% buy × $100 = $1,000 | P1, 1:01:03 |
 
 ### Scripts & templates finder
@@ -429,6 +437,53 @@ Worked example (21:23–25:03): "If you're tired of running your business 24/7 b
 - He has no special style. He has an **angle**: business and content advice is full of polished, highly produced older creators (e.g. Hormozi), so he makes it feel **accessible, casual and down to earth** (default TikTok font, nothing fancy). (30:05–31:19)
 - How to find yours: as a consumer, what's everyone in your niche doing, and **what feels missing?** Try **combining styles** from different niches (e.g. cinematic storytelling × making money; his own was goofy Gen Z lifestyle × business documentation). It starts as a hypothesis you test. (31:32–34:03)
 - **Take long-form ideas that already work on YouTube** and use the title as the first sentence of a short. (34:11)
+
+## S: Storytelling framework
+Claimed: 50K → 350K Instagram followers in 15 months, many videos at 1M+, $525K business revenue. "Storytelling is way too over complicated on the internet." The point of the framework: people get invested in you and trust you, which matters for selling. (0:00–1:07)
+
+### S1: Hook, a relatable pain hook (1:22)
+- Stop the scroll, **open an emotional loop**, and make the viewer feel "wait, this video is about me". (1:32)
+- Use a **universal belief, fear or shame thought**, use the word **"you"** (or "we/us/who"), keep it **under 15 words**, and say it **within 1.5 seconds**, so talk fast. (1:39–1:53)
+- **Templates he's "spammed" to 1M+ views:** (2:09)
+  - "I don't know who needs to hear this, but ___."
+  - "Here's why you still [bad thing]."
+  - "Here's why [thing that seems bad] is actually good for you."
+- "Be as embarrassingly specific as possible." Storytelling isn't "me me me"; the goal is to make the viewer "feel understood and heard". (2:41–2:50)
+
+### S2: Backstory / setup (2:59)
+- The story starts in **sentence two**, not sentence one. **2–4 short sentences** so it moves fast. You're competing with "brain rot" that changes every 2 seconds. (3:07–3:59)
+- **Every backstory sentence needs a location, age or exact number.** Not "I used to believe…" (the viewer can't picture it) but "**6 months ago… 2 years ago, I was doing homework when…**" (4:04–4:45)
+  - e.g. "One year ago, I promised my mom I'd hit this crazy goal. She let me drop out and pursue my dream of content creation."
+- The aim is an **immersive** video: "make the viewer feel like they are actually there with you." (5:00)
+
+### S3: Breaking point (5:16)
+- 1–2 sentences. **The single moment** that changed everything, described as if it **lasted ~5 seconds**. "99% of creators" get this wrong by describing a long process. (5:23–5:47)
+  - Not "I started to realize…" but "I was scrolling through my Instagram reels and I saw this one video of this one Asian dude who told me ___. In that moment everything clicked." (5:56)
+- **Templates:** "But nothing ever changed until one day…" / "I was scrolling through my Instagram reels when…" / "I was driving when he told me this crazy line…" (6:33)
+- **Zoom in and dramatise it.** "Actually create drama out of that moment." That's the payoff that keeps people watching. (6:50–7:09)
+
+### S4: Takeaway (7:18)
+- This is where you teach. Avoid sounding like a "cocky… guru preacher". (7:42)
+- **Add a self-deprecating joke** to break the guru tone. (7:50)
+- **Give the actual result** you got from applying the lesson. It's the best place for social proof: not "I felt a lot better" but "that's when I grew my business from being stuck at 10K a month to 100K a month." (8:06–8:41)
+- One-liners like "The truth is, shame doesn't make you more disciplined. It just makes you hate the process" belong here, **never at the start** (corny and preachy as a hook). (9:14–9:22)
+
+### S5: CTA (9:28)
+- Followers aren't the bottleneck; views are. "I've almost never asked people to follow me… If they like you and they got value from you, they will just do it." (9:35–9:51)
+- Make the CTA natural, not pitchy: **build it off your last sentence with a conjunction** (but/and/so), e.g. "So comment 'monk mode' if this is where you're at." (10:43)
+- **Make a follow feel earned:** "If you actually want to lock in on your fitness goals this year, I'm going to make a video about it tomorrow, so follow." (11:03)
+
+### S6: Delivery tones (13:13)
+"It's not just about… what you're scripting… but how you're saying it, which is actually more important."
+1. **Best-friend rant tone:** raw, slightly messy, no fake polish. Picture **one friend** in front of you, not 100 viewers (or your mum, or your girlfriend's mum). (13:39–15:04)
+2. **"Friend who just discovered a hack," not a guru:** "Yo, this is the stuff that worked for me and I just discovered it. I'm not saying I'm better than you." **Same level as your viewer.** (15:04–16:48)
+3. **Self-roast tone:** your own natural slang and little jokes ("I know this sounds cringe", "Bro, that is so sad", "I'm not [hating] on anyone, I'm just saying"). He "mechanically" adds short self-deprecating jokes, e.g. a silly comment keyword on a CTA so it doesn't feel like a hard sell. Use words you actually say day to day. (16:48–19:16)
+4. **Short sentences and repetition:** no sentences with lots of clauses. "You scroll, you watch, you procrastinate, and now you feel like [rubbish]." (19:24–20:30)
+
+### Recap: it's a 3-act structure (21:03)
+Act 1 = hook + set-up (~2 sentences) · Act 2 = backstory + obstacles, climaxing at the breaking point (~4 sentences) · Act 3 = takeaway and resolution (~3 sentences). Once it's muscle memory you can think for ~3 minutes and riff unscripted. (21:16–23:23)
+
+> **My notes:** S5 says don't keep asking for follows; D4 ends every video with "Follow to stay tuned on the journey." These fit together if the follow is **earned**: tie it to what's coming tomorrow in the series ("Tomorrow I make my first 100 cold calls, so follow if you want to see how it goes").
 
 > **My notes:** M8 (newer) says B-roll should match the words; D3 and T4 said random B-roll is fine. Go with M8: matching where you can, random only as filler.
 

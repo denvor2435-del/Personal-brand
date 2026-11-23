@@ -9,7 +9,8 @@ The single source of truth for content. Every video comes from something that re
 ## 📍 Current position
 - **Stage:** Pre-launch. Starting from zero on both platforms. No videos posted yet.
 - **Agency stage being documented:** Niche locked (kitchen fitters, Surrey + Herts). Next: research calls.
-- **Next action:** Answer the D1 four questions (below), then film and post **Day 1** in CapCut.
+- **Next action:** Pick your ideal viewer persona (one real person, T2) and answer the D1 four questions (below), then film and post **Day 1** in CapCut.
+- **Growth phase:** 1 (Fries): goal is 1,000 views per video consistently
 - **Posting streak:** 0 days
 
 ---
@@ -19,6 +20,7 @@ The single source of truth for content. Every video comes from something that re
 - **Who it's for:** Aspiring entrepreneurs: people who want to start an online business or agency but are stuck at "thinking about it". Many have jobs, little money and no audience. Kitchen-company owners are *not* the target audience.
 - **On camera:** Talking head, straight to the viewer (Mino's whole strategy is talking-head videos about your life, P1).
 - **How you help people (D4 Q1, draft):** "Show people stuck on step one that you can start a real business from zero, and get them to take one step today."
+- **Ideal viewer persona (T2): one real person you know**, e.g. a friend or colleague who keeps saying they want to start a business but hasn't. Name: **[user to pick]**. Write down their problems, beliefs, what they watch, and their 3 biggest objections ("I've got no money", "I've got a job", "who'd listen to me?"). Every script answers one of those objections. Picture this person before every recording.
 - **Why you're qualified:** You don't need to be. You're on step two; you help the people on step one (P1). Being only a few weeks ahead is the point.
 
 ## 🛣️ The series: "Road to X" (D4)
@@ -48,7 +50,11 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 | **Unscripted vlog** | what happened today + what I learned; specific hook; "you/we" (D5) | Busy days |
 | **Informational how-to** | 1-second hook → solution → objection → meat (60–70%) → tie back (D6) | Teaching one thing |
 
-**Hook rules (D2, D5, D6):** clear and quick; no "hey guys"; **specific beats broad**, so write for one person; use numbers; first 3 sentences matter most.
+**Hook rules (D2, D5, D6, T1):** the first 3–5 seconds get **80% of your effort**; clear and quick; no "hey guys"; **specific beats broad**, so write for your persona; use numbers; calm "FaceTime call" delivery, not hype.
+
+**Editing defaults (T4, P3):** B-roll changes every sentence · **SLC captions** (2–3 words, large, white classic font with blurred black shadow, ~30% up) · trending instrumental from the in-app library at ~60–70% · cut every frame of dead space.
+
+**Pre-filming routine (D1, T3):** breathe (in, hold 6, out 8) → close your eyes and picture your persona → shake it out → record. Scripted videos: teleprompter. Unscripted: hit record and don't stop.
 
 ## 🛑 Rules
 - **Never show or quote paid course material** (Amber's Launch Lab or Mino's paid Whop modules). No Skool screens, no word-for-word scripts, no GPT passcode. Teach *your* results and takeaways in your own words.
@@ -86,6 +92,14 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 **Extra daily task from Mino (D1, D2, D3):** connect with or review one other creator a day.
 
 **Realistic target (D2):** your first video over 10K views within 30 days. Celebrate showing up, not views (P1).
+
+## 🪜 Growth phases (T5): where are we?
+- [ ] **Phase 1 Fries:** 1,000 views per video, consistently ← *we start here*
+- [ ] **Phase 2 Pebbles:** first 10,000-view video
+- [ ] **Phase 3 Gem:** first 100,000-view video → first 10,000 followers
+- [ ] **Phase 4 Money:** first £1,000 from content
+
+Mino: "You can't skip steps." 6 months in phases 1–2 is normal.
 
 ## 🎥 Day 1 script (D1 template), draft
 > Fill in the brackets with your **own** honest answers. The fear has to be real for it to land.
@@ -128,3 +142,4 @@ Weekly review: which hooks beat your average? Do more of those.
 | 2026-11-23 | Mino Lee's course is the content method; plan rewritten to match | User is taking his course; course wins over Claude's generic plan |
 | 2026-11-23 | Daily short-form (Reels + Shorts) replaces 4×/week + weekly long-form | Mino: minimum one post a day (P1); long-form parked |
 | 2026-11-23 | Series goal (draft): "Road to £10K/month with my agency" | Mino D4: specific, binary goal. User to confirm |
+| 2026-11-23 | Added ideal viewer persona, SLC captions, pre-filming routine, 4 growth phases | Mino's 4-tactics video (T1–T5) |

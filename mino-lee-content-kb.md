@@ -1,8 +1,12 @@
 # Mino Lee: Content Knowledge Base
 
-Source: Mino Lee's free **7-day content course on YouTube** (~3h14m). Mino says it's the first seven modules of his paid Content Academy. Notes are taken from the transcript the user pasted on 2026-11-23. Whop course notes are added later under their own heading.
+Sources so far (transcripts the user pasted on 2026-11-23):
+1. Mino Lee's free **7-day content course on YouTube** (~3h14m), which he says is the first seven modules of his paid Content Academy. Codes D0–D7, P1–P3.
+2. YouTube video on his **4 growth tactics** (~31 min: hook, ideal viewer persona, minimum viable editing, community, plus the 4 growth phases). Code **T**.
 
-**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips) plus the video timestamp, e.g. "D3, 1:17:14".
+Whop course notes are added later under their own heading.
+
+**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
 
 > Private study notes. Don't post them publicly.
 
@@ -23,6 +27,11 @@ Source: Mino Lee's free **7-day content course on YouTube** (~3h14m). Mino says 
 | D5 | Day 5: Unscripted video | 2:07:50 | Minimum viable vlog; hook writing (specific beats broad); "you/we" |
 | D6 | Day 6: Going viral (older module) | 2:26:37 | Niche + format, 10 ideas in 10 min, informational template, clarity + speed, captions |
 | D7 | Day 7: Recap | 3:10:46 | Recap + pitch for Content Academy |
+| T1 | 4 tactics: Hook | 1:24 | Put 80% of your effort on the first 3–5 seconds |
+| T2 | 4 tactics: Ideal viewer persona | 5:24 | Talk to one real person you know; answer their objections; FaceTime energy |
+| T3 | 4 tactics: Filming flow state | 9:50 | Pre-filming routine; record without stopping |
+| T4 | 4 tactics: Minimum viable editing | 11:55 | B-roll every sentence; SLC captions; trending instrumentals |
+| T5 | 4 tactics: Community + 4 phases | 14:59 | Fries → Pebbles → Gem → Money milestones |
 
 ### Frameworks at a glance
 - **Habit → skill → income.** Content has to become a habit first. (D0, 1:30)
@@ -34,6 +43,10 @@ Source: Mino Lee's free **7-day content course on YouTube** (~3h14m). Mino says 
 - **Clarity + speed** decide every scripting, filming and editing choice. (D6, 2:39:08; 2:46:13)
 - **"Everybody is an expert to someone."** If you're on step 2, help the people on step 1. (P1, 54:26; D3, 1:33:40)
 - **You only need 1,000 true fans.** (P1, 55:14)
+- **Hook = first 3–5 seconds; spend 80% of your effort there.** (T1, 1:24)
+- **Talk to one real person you know** (ideal viewer persona), like you're on a FaceTime call. (T2, 7:28; 5:03)
+- **How viewers feel > what they think.** Emotion drives shares, but don't act a character. (T2, 6:10)
+- **The 4 phases: Fries → Pebbles → Gem → Money.** (T5, 22:11)
 
 ### Key numbers
 | What | Number | Where |
@@ -52,6 +65,13 @@ Source: Mino Lee's free **7-day content course on YouTube** (~3h14m). Mino says 
 | Teleprompter | speed ~12–14, font 16–17 | D1, 10:24; D4, 1:57:30 |
 | Calming breath | breathe in, hold 6s, out for 8s | D1, 11:32 |
 | B-roll clip length | 10s (laptop, walking); 30s+ (working/gym); time-lapse 10–30 min | P2, 1:39:30 |
+| Hook vs views (his example) | ~27% better retention at 3–5s → 54× the views (298K vs 5K) | T1, 2:16 |
+| Filming time for a 60s video (unscripted flow) | 6–7 minutes of recording; first 1–3 min will feel stiff | T3, 11:06 |
+| SLC captions | 2–3 words each, large, clear (white classic font, blurred black shadow) | T4, 13:15 |
+| Phase 1 Fries | 1,000 views per video, consistently | T5, 22:18 |
+| Phase 2 Pebbles | first 10,000-view video | T5, 23:29 |
+| Phase 3 Gem | first 100,000-view video → first 10,000 followers | T5, 24:44 |
+| Phase 4 Money | first $1,000 from content | T5, 26:46 |
 | His business maths example | 10K views × 1% to funnel × 10% buy × $100 = $1,000 | P1, 1:01:03 |
 
 ### Scripts & templates finder
@@ -262,7 +282,55 @@ Recap: first video and CapCut basics; younger-self videos; mindset; life brand; 
 
 ---
 
+## T: "4 tactics" growth video
+Mino's claimed results: 259 videos in 12 months, 50K → 250K Instagram followers, $260K from his business. Examples of students using CapCut on iPhone: 400 → 60K, 2K → 60K followers.
+
+### T1: Master the hook (1:24)
+- The hook is the **first 5 seconds**. "I literally put 80% of my time that I spend scripting, planning, filming on just those first 5 seconds." (1:32)
+- The algorithm mostly judges **viewer retention** (the % who watch to the end). (2:04)
+- His example: a video at 298K views vs one at 5K views. A ~27% better hook at the start gave 54× the views. (2:16–2:52)
+- "If your videos aren't hitting consistently above 10,000 views, you do not understand hooks to the degree you need to." (1:48)
+- **AI for hooks:** he trained his own chatbot on hooks from his and his favourite creators' viral videos, so it sounds human. Generic GPT hooks "sound like absolute robots". (3:09) His bot is a free link in that video's description.
+- **Delivery matters as much as wording:** "It's not about what you say… It's a lot more so about how you say it." (4:19) His 298K hook was **calm, "like I was on a FaceTime call with you"**, not loud. (5:03)
+  - 298K hook (example): "You know, I really thought life would get better once I made 10K a month…" (4:55)
+
+### T2: Know your ideal viewer persona (5:24)
+- Most gurus focus on editing hacks. He focuses on **who he's talking to**. (5:31)
+- "Viewer retention… comes down to simply how you make your viewers **feel**… not what you make your viewers think." (6:10)
+- The strongest reason content gets shared: it **evokes a strong emotional response**. But don't act loud or angry; that creates an "uncanny valley" effect. Build a **genuine connection**, "like you're talking to an actual homie". (6:32–7:21)
+- **Pick one real person you actually know** as your ideal viewer persona. Know them inside out: their life problems, what they wear, what they believe, what content they already watch. (7:28–8:00)
+- **List their objections and answer them in the script.** His examples: "I don't have anything to sell" / "I'm busy" / "I'm too lazy to edit". (8:56–9:43)
+
+### T3: Filming flow state (9:50)
+- **Pre-filming routine:** deep breath, close your eyes, picture your persona right in front of you. Still stiff? Stand up and **shake it out** (from acting class). (9:58–10:43)
+- **Hit record and don't stop until the whole video is filmed.** The first 1–3 minutes feel stiff and incoherent; accept it. A 60-second video takes him 6–7 minutes of recording. (10:51–11:31)
+- "The desire to not mess up is getting in your head." (11:31)
+
+### T4: Minimum viable editing (11:55)
+1. **B-roll:** change it **every new sentence**. With no talking, match the B-roll to the beat. Random footage is fine if it loosely fits ("like Subway Surfers… but… more authentic"). (12:12)
+2. **SLC captions:** **S**hort (2–3 words per caption, batch-edited), **L**arge (easy to read), **C**lear (white, classic TikTok font, blurred black shadow). (12:43–13:54)
+3. **Music:** **trending songs** for familiarity, using the **instrumental** version so lyrics don't compete with your voice. (14:01)
+
+### T5: Community + the 4 phases (14:59)
+- "You are the average of the five people you spend the most time with." Being around creators who improve 1% a day changed his life; "you are quite literally one connection away". (15:38; 18:30)
+- Passively watching videos ≠ progress. Growth "only happens when you make content a top priority". (16:21–16:40)
+- **The 4 phases (Content Academy):**
+  | Phase | Name | Goal | Focus |
+  |---|---|---|---|
+  | 1 | **Fries** (learning) | **1,000 views per video, consistently** | Just show up and post; basics, first 7 videos, then scripting, storytelling, hooks |
+  | 2 | **Pebbles** (optimisation) | **First 10,000-view video** | Small details: cutting to the millisecond, camera angles, shot types, lighting, editing |
+  | 3 | **Gem** (exponential growth) | **First 100K-view video → first 10,000 followers** | Scripting for your persona; find "your unique edge… the it guy for blank" |
+  | 4 | **Money** (monetisation) | **First $1,000 from content** | Turning the audience into income |
+- "You can't skip steps." Spending 6 months in phases 1–2 is normal. (25:00–25:13)
+- The rest of the video (from ~19:00) is a pitch for Content Academy: live calls, coaches, events, leaderboard games.
+
+> **My notes:** Two small tensions between the videos:
+> - **Recording style:** D1–D4 use a teleprompter and 1–2 sentences per take. T3 says record without stopping. My read: scripted videos use the teleprompter; unscripted ones (D5) use the non-stop flow method.
+> - **Caption length:** D6 says ≤4 words on one line; T4 (newer) says 2–3 words, large. Go with T4.
+
+---
+
 > **My notes:** Things to check or adapt (Claude's own, not Mino's):
-> - **Music (D3):** Mino downloads songs from YouTube with a converter site. That breaks YouTube's terms and can get Reels muted or Shorts claimed. Safer: add music from the Instagram/CapCut licensed library inside the app.
+> - **Music (D3, T4):** Mino downloads songs from YouTube with a converter site. That breaks YouTube's terms and can get Reels muted or Shorts claimed. Safer: add music from the Instagram/CapCut licensed library inside the app.
 > - **US → UK:** dollar figures and "college" examples are his. Use £ and your own life.
 > - **YouTube:** the course is short-form only (TikTok/Reels). Posting the same vertical video as a YouTube Short fits his method; long-form YouTube isn't covered.

@@ -4,10 +4,11 @@ Sources so far (transcripts the user pasted on 2026-11-23):
 1. Mino Lee's free **7-day content course on YouTube** (~3h14m), which he says is the first seven modules of his paid Content Academy. Codes D0–D7, P1–P3.
 2. YouTube video on his **4 growth tactics** (~31 min: hook, ideal viewer persona, minimum viable editing, community, plus the 4 growth phases). Code **T**.
 3. YouTube **hooks masterclass** (~40 min: retention, the Copy → Understand → Maximise framework, keywords, the consistency plateau). Code **H**.
+4. YouTube **15 mistakes keeping you under 1,000 views** (~35 min, plus an FAQ on finding your style). Code **M** (M15 → M1, numbered as in the video).
 
 Whop course notes are added later under their own heading.
 
-**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video, H1–H4 = hooks masterclass) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
+**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video, H1–H5 = hooks masterclass, M1–M15 = 15 mistakes) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
 
 > Private study notes. Don't post them publicly.
 
@@ -38,6 +39,8 @@ Whop course notes are added later under their own heading.
 | H3 | Hooks: Understand | 10:15 | Emotional keywords; build a keyword bank |
 | H4 | Hooks: Maximise | 20:06 | Checklist: clarity, keywords, specificity/numbers, alignment, purple cow, read aloud |
 | H5 | Hooks: Consistency plateau | 26:39 | Months 1–2 feel flat; keep posting; things click around months 2–3 |
+| M | 15 mistakes (<1K views) | 0:00 | Diagnostic checklist: visuals, persona, delivery, B-roll, wording, music |
+| M-FAQ | Finding your style | 29:58 | Find the underserved angle in your niche; combine styles; borrow YouTube titles |
 
 ### Frameworks at a glance
 - **Habit → skill → income.** Content has to become a habit first. (D0, 1:30)
@@ -56,6 +59,9 @@ Whop course notes are added later under their own heading.
 - **Copy → Understand → Maximise** for hooks. (H2–H4)
 - **"Day 1 of Road to 10K a month" is not a good hook on its own.** (H, 18:16)
 - **Don't stop posting to perfect your hooks.** Learning happens through posting. (H5, 28:03)
+- **The 15-mistakes checklist** for diagnosing a video stuck under 1K views. (M)
+- **A $30 coloured light is worth more than a $1,000 camera.** (M15, 2:37)
+- **The 10-word test:** can you say the whole idea in 10 words or fewer? (M3, 26:16)
 
 ### Key numbers
 | What | Number | Where |
@@ -84,6 +90,9 @@ Whop course notes are added later under their own heading.
 | Videos worth studying | 50K+ likes, on TikTok, in your format | H2, 5:47 |
 | Read the hook aloud | 5 times | H4, 26:23 |
 | Example consistency | 66 posts in ~60 days → 10K followers | H5, 30:09 |
+| Background light | ~$30 LED / colour bulb (e.g. Govee) | M15, 0:53 |
+| Consumer-mode check | scroll Reels/TikTok for ~5 min (timer), then watch your own video | M12, 12:30 |
+| Hook concept | 10 words or fewer | M3, 26:23 |
 | His business maths example | 10K views × 1% to funnel × 10% buy × $100 = $1,000 | P1, 1:01:03 |
 
 ### Scripts & templates finder
@@ -390,6 +399,38 @@ Worked example (21:23–25:03): "If you're tired of running your business 24/7 b
 - "The first 30 days, it really doesn't matter what you're posting because you're just learning the fundamentals." (31:00)
 - **North star:** if you hit your follower goal, what would it actually change in your life? Remember why. (34:54)
 - His AI hook writer is trained on viral hooks and built on Claude Sonnet (Content Academy). (40:03)
+
+---
+
+## M: 15 mistakes keeping you under 1,000 views
+"You're not shadowbanned." Work through these to diagnose a video. They're listed in the video's order (15 → 1).
+
+| # | Mistake | Fix | Time |
+|---|---|---|---|
+| 15 | **No contrast or colour** | A ~$30 LED or colour bulb behind you, plus a brighter front light. "$30 coloured light is… more than 10 times the value of a $1,000 camera." He films on an iPhone front camera. | 0:44 |
+| 14 | **Cluttered framing** | Simple, clean background; dim the lights behind you so you, captions and overlays stand out. | 3:07 |
+| 13 | **Not writing for one viewer** | Talk to one person (friend or younger self), casual like a friend, no "I'm better than you" ego. List their objections. Cut "me me me" language; explain the viewer's situation back to them. **Lean into vulnerability** (e.g. "One year ago I decided to quit my job…"). Relatable to everyone = special to no one. | 4:02 |
+| 13b | **"You" vs "I" hooks** | "You" hooks lean educational/advice; "I" hooks lean storytelling. Both can teach the same lesson. Try both. | 8:40 |
+| 13c | **Vague persona** | Write your persona very specifically and vulnerably (e.g. which apps you doom-scrolled late at night). Those details become hooks. | 10:30 |
+| 12 | **Wordy script** | Read it aloud to someone and watch where they drift; or scroll as a consumer for ~5 min then watch your video; or ask ChatGPT/Claude to "find any part… too wordy or [not] understandable to a fifth grader". | 11:55 |
+| 11 | **Slow talking and pauses** | Say the **first sentence as fast as possible**. Deep breath before recording. **Film the hook last**, once you're warmed up. Don't speed your voice up in editing (people can tell). | 13:49 |
+| 10 | **Monotone delivery** | Dial up emotion and tonality, especially the first sentence. "We don't scroll or watch things based on logic… based on emotion." It should "feel a little cringe". Over-expressing beats under-expressing. | 16:29 |
+| 9 | **Camera too far away** | Get close. Viewers' eyes lock onto your eyes. Front camera close-up feels like a call. | 18:12 |
+| 8 | **B-roll that doesn't match** | B-roll and visuals that **correlate with the words** (more important on Reels than TikTok). Vary wide and extreme close-up shots. Always some motion. | 19:21 |
+| 7 | **Fails the 10-year-old test** | Would a 10-year-old understand the hook? Use simple words ("YouTuber" beats "content creator"). People scroll when their brain is tired. Use visuals to explain. Ask Claude to flag every sentence a 7-year-old wouldn't understand or care about. | 20:21 |
+| 6 | **Music doesn't fit the emotion** | Choose the song for the feeling (excited, sad, hype), not just because it's trending. | 22:13 |
+| 5 | **Lighting doesn't fit the emotion** | Dark = serious/sad (lights off except a front light); bright and colourful = light-hearted. | 24:31 |
+| 4 | **Not specific** | Keywords, phrases, numbers, **names** (e.g. "I learned a business lesson from Elon Musk" beats "…from rich entrepreneurs"). Niche jargon (e.g. "MRR") is fine if your audience knows it. | 25:04 |
+| 3 | **Concept too vague** | **Can you say the whole idea in 10 words or fewer?** "Can I learn a backflip in 1 hour" beats "3 years of self-improvement to realize I did it wrong". | 26:16 |
+| 2 | **Boring story** | Before telling it: what's the most interesting part, and why was it interesting to you? Put that in the hook. | 27:22 |
+| 1 | **Low-TAM words** | Use words more people care about in the hook ("multiple income streams" beats "content creator income"). Find them in popular YouTube titles. Niche terms are fine later in the video. | 27:45 |
+
+### M-FAQ: finding your style (29:58)
+- He has no special style. He has an **angle**: business and content advice is full of polished, highly produced older creators (e.g. Hormozi), so he makes it feel **accessible, casual and down to earth** (default TikTok font, nothing fancy). (30:05–31:19)
+- How to find yours: as a consumer, what's everyone in your niche doing, and **what feels missing?** Try **combining styles** from different niches (e.g. cinematic storytelling × making money; his own was goofy Gen Z lifestyle × business documentation). It starts as a hypothesis you test. (31:32–34:03)
+- **Take long-form ideas that already work on YouTube** and use the title as the first sentence of a short. (34:11)
+
+> **My notes:** M8 (newer) says B-roll should match the words; D3 and T4 said random B-roll is fine. Go with M8: matching where you can, random only as filler.
 
 ---
 

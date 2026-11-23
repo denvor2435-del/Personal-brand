@@ -21,6 +21,7 @@ The single source of truth for content. Every video comes from something that re
 - **On camera:** Talking head, straight to the viewer (Mino's whole strategy is talking-head videos about your life, P1).
 - **How you help people (D4 Q1, draft):** "Show people stuck on step one that you can start a real business from zero, and get them to take one step today."
 - **Ideal viewer persona (T2): one real person you know**, e.g. a friend or colleague who keeps saying they want to start a business but hasn't. Name: **[user to pick]**. Write down their problems, beliefs, what they watch, and their 3 biggest objections ("I've got no money", "I've got a job", "who'd listen to me?"). Every script answers one of those objections. Picture this person before every recording.
+- **Your angle (M-FAQ):** agency and "make money online" content is dominated by polished, mostly US creators who've already made it. Your gap: **a UK beginner doing it live, casual and down to earth, with real numbers and real rejections**. *(My suggestion, built on Mino's method. Test it.)*
 - **Why you're qualified:** You don't need to be. You're on step two; you help the people on step one (P1). Being only a few weeks ahead is the point.
 
 ## 🛣️ The series: "Road to X" (D4)
@@ -59,6 +60,15 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 - Write each hook as: proven template + your agency story + keywords + a number.
 - Run it through the H4 checklist and read it aloud 5 times.
 
+**Before you post: the 15-mistakes check (M):**
+- [ ] Concept fits in 10 words (M3) and passes the 10-year-old test (M7). *I can run this check on any script you send me (Mino recommends using Claude for it, M12/M7).*
+- [ ] Hook uses specific, high-TAM words, numbers or names (M4, M1)
+- [ ] Viewer-focused ("you"), with some vulnerability (M13)
+- [ ] Phone close, face lit from the front, colour light behind, clean background (M9, M15, M14)
+- [ ] First sentence said fast and expressively; film the hook last (M11, M10)
+- [ ] B-roll matches the words and has motion (M8); music and lighting fit the emotion (M6, M5)
+- [ ] Consumer-mode check: scroll for 5 min, then watch it cold (M12)
+
 **Pre-filming routine (D1, T3):** breathe (in, hold 6, out 8) → close your eyes and picture your persona → shake it out → record. Scripted videos: teleprompter. Unscripted: hit record and don't stop.
 
 ## 🛑 Rules
@@ -81,6 +91,7 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
   - Line 4 (later, once there's an offer): CTA + link
 - [ ] YouTube channel: same name, photo and one-line description
 - [ ] CapCut installed (teleprompter, auto captions)
+- [ ] Optional: a ~£30 colour LED or smart bulb for the background (M15: worth more than a new camera)
 - [ ] **6-month goals written where you'll see them daily (P1):** followers ___ · income ___ · posts per day: **1**
 
 ## 📅 The first 7 days (Mino's 7-day course, mapped to the agency)
@@ -152,3 +163,4 @@ Weekly review: which hooks beat your average? Do more of those.
 | 2026-11-23 | Series goal (draft): "Road to £10K/month with my agency" | Mino D4: specific, binary goal. User to confirm |
 | 2026-11-23 | Added ideal viewer persona, SLC captions, pre-filming routine, 4 growth phases | Mino's 4-tactics video (T1–T5) |
 | 2026-11-23 | "Day N" moves to on-screen text/cover; every video opens with a real hook. Daily hook-bank habit from week 2 | Mino's hooks masterclass (H1–H5) |
+| 2026-11-23 | Added the 15-mistakes pre-post check and angle (casual UK beginner, real numbers) | Mino's 15-mistakes video (M) |

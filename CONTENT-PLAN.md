@@ -29,7 +29,7 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
   - It's binary: there's a day you hit it. It lasts long enough for a real series and covers first client → second → £10K.
   - The first client becomes the big milestone episode along the way.
   - Alternative: "Road to my first agency client". Shorter, but you'd need a new goal within weeks. Mino says switching is fine (D4).
-- **Video opener:** "Day [N] of the road to £10K a month with my agency."
+- **Video opener:** put **"Day [N] · Road to £10K/month"** on screen, on the cover and in the caption, then **open with a real hook** (H3: the "Day N of Road to X" line alone isn't a good hook). Exception: week 1 uses Mino's D1–D4 scripts as written, because the goal that week is posting, not views.
 - **Ending:** "Follow to stay tuned on the journey. See you tomorrow." (Something positive every time, D4.)
 
 ## 🎬 Cadence (D1, P1)
@@ -53,6 +53,11 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 **Hook rules (D2, D5, D6, T1):** the first 3–5 seconds get **80% of your effort**; clear and quick; no "hey guys"; **specific beats broad**, so write for your persona; use numbers; calm "FaceTime call" delivery, not hype.
 
 **Editing defaults (T4, P3):** B-roll changes every sentence · **SLC captions** (2–3 words, large, white classic font with blurred black shadow, ~30% up) · trending instrumental from the in-app library at ~60–70% · cut every frame of dead space.
+
+**Hook system (H2–H4), from week 2:**
+- **15 min a day:** scroll TikTok for **talking-head** videos with **50K+ likes** in business, entrepreneurship and self-improvement. Copy the hooks into `hook-bank.md` and circle the emotional keywords.
+- Write each hook as: proven template + your agency story + keywords + a number.
+- Run it through the H4 checklist and read it aloud 5 times.
 
 **Pre-filming routine (D1, T3):** breathe (in, hold 6, out 8) → close your eyes and picture your persona → shake it out → record. Scripted videos: teleprompter. Unscripted: hit record and don't stop.
 
@@ -101,6 +106,9 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 
 Mino: "You can't skip steps." 6 months in phases 1–2 is normal.
 
+**The plateau (H5):** expect ~1K views in months 1–2. **Don't pause to perfect your hooks; keep posting.** It usually clicks around months 2–3.
+**North star (H5):** what would 10K followers actually change for you? *(user to answer; write it next to your 6-month goals)*
+
 ## 🎥 Day 1 script (D1 template), draft
 > Fill in the brackets with your **own** honest answers. The fear has to be real for it to land.
 
@@ -143,3 +151,4 @@ Weekly review: which hooks beat your average? Do more of those.
 | 2026-11-23 | Daily short-form (Reels + Shorts) replaces 4×/week + weekly long-form | Mino: minimum one post a day (P1); long-form parked |
 | 2026-11-23 | Series goal (draft): "Road to £10K/month with my agency" | Mino D4: specific, binary goal. User to confirm |
 | 2026-11-23 | Added ideal viewer persona, SLC captions, pre-filming routine, 4 growth phases | Mino's 4-tactics video (T1–T5) |
+| 2026-11-23 | "Day N" moves to on-screen text/cover; every video opens with a real hook. Daily hook-bank habit from week 2 | Mino's hooks masterclass (H1–H5) |

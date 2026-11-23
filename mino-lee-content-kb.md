@@ -3,10 +3,11 @@
 Sources so far (transcripts the user pasted on 2026-11-23):
 1. Mino Lee's free **7-day content course on YouTube** (~3h14m), which he says is the first seven modules of his paid Content Academy. Codes D0–D7, P1–P3.
 2. YouTube video on his **4 growth tactics** (~31 min: hook, ideal viewer persona, minimum viable editing, community, plus the 4 growth phases). Code **T**.
+3. YouTube **hooks masterclass** (~40 min: retention, the Copy → Understand → Maximise framework, keywords, the consistency plateau). Code **H**.
 
 Whop course notes are added later under their own heading.
 
-**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
+**How to cite:** use the section codes below (D1–D7 = days, P1–P3 = pro tips, T1–T5 = 4-tactics video, H1–H4 = hooks masterclass) plus the video timestamp, e.g. "D3, 1:17:14" or "T2, 7:28".
 
 > Private study notes. Don't post them publicly.
 
@@ -32,6 +33,11 @@ Whop course notes are added later under their own heading.
 | T3 | 4 tactics: Filming flow state | 9:50 | Pre-filming routine; record without stopping |
 | T4 | 4 tactics: Minimum viable editing | 11:55 | B-roll every sentence; SLC captions; trending instrumentals |
 | T5 | 4 tactics: Community + 4 phases | 14:59 | Fries → Pebbles → Gem → Money milestones |
+| H1 | Hooks: why they matter | 0:00 | Retention graph; hook is 80% of the result; hashtags and posting times don't matter |
+| H2 | Hooks: Copy | 4:44 | Build a hook bank from 50K+-like videos in your format |
+| H3 | Hooks: Understand | 10:15 | Emotional keywords; build a keyword bank |
+| H4 | Hooks: Maximise | 20:06 | Checklist: clarity, keywords, specificity/numbers, alignment, purple cow, read aloud |
+| H5 | Hooks: Consistency plateau | 26:39 | Months 1–2 feel flat; keep posting; things click around months 2–3 |
 
 ### Frameworks at a glance
 - **Habit → skill → income.** Content has to become a habit first. (D0, 1:30)
@@ -47,6 +53,9 @@ Whop course notes are added later under their own heading.
 - **Talk to one real person you know** (ideal viewer persona), like you're on a FaceTime call. (T2, 7:28; 5:03)
 - **How viewers feel > what they think.** Emotion drives shares, but don't act a character. (T2, 6:10)
 - **The 4 phases: Fries → Pebbles → Gem → Money.** (T5, 22:11)
+- **Copy → Understand → Maximise** for hooks. (H2–H4)
+- **"Day 1 of Road to 10K a month" is not a good hook on its own.** (H, 18:16)
+- **Don't stop posting to perfect your hooks.** Learning happens through posting. (H5, 28:03)
 
 ### Key numbers
 | What | Number | Where |
@@ -72,6 +81,9 @@ Whop course notes are added later under their own heading.
 | Phase 2 Pebbles | first 10,000-view video | T5, 23:29 |
 | Phase 3 Gem | first 100,000-view video → first 10,000 followers | T5, 24:44 |
 | Phase 4 Money | first $1,000 from content | T5, 26:46 |
+| Videos worth studying | 50K+ likes, on TikTok, in your format | H2, 5:47 |
+| Read the hook aloud | 5 times | H4, 26:23 |
+| Example consistency | 66 posts in ~60 days → 10K followers | H5, 30:09 |
 | His business maths example | 10K views × 1% to funnel × 10% buy × $100 = $1,000 | P1, 1:01:03 |
 
 ### Scripts & templates finder
@@ -324,9 +336,60 @@ Mino's claimed results: 259 videos in 12 months, 50K → 250K Instagram follower
 - "You can't skip steps." Spending 6 months in phases 1–2 is normal. (25:00–25:13)
 - The rest of the video (from ~19:00) is a pitch for Content Academy: live calls, coaches, events, leaderboard games.
 
-> **My notes:** Two small tensions between the videos:
+> **My notes:** Tensions between the videos:
+> - **"Day N of Road to X" opener:** D4 uses it as the spoken opener; H3 (newer) says it's not a good hook on its own. My read: keep the series (it's the storyline people follow, D4) but put "Day N" in the on-screen text, cover and caption, and **open the video with a real hook** built from your hook and keyword banks.
 > - **Recording style:** D1–D4 use a teleprompter and 1–2 sentences per take. T3 says record without stopping. My read: scripted videos use the teleprompter; unscripted ones (D5) use the non-stop flow method.
 > - **Caption length:** D6 says ≤4 words on one line; T4 (newer) says 2–3 words, large. Go with T4.
+
+---
+
+## H: Hooks masterclass
+### H1: Why hooks matter (0:00)
+- The hook is the **first 3 seconds**. If people don't get past it, "your watch time will be cooked."
+- Avoid gimmicks (zoom effects, "challenge hooks"); understand the fundamentals. (0:23)
+- **The retention graph:** if your video only gets good at second 10, ~90% have already left. The platform sees that and stops pushing it, "even if you have the most goated piece of video past 10 seconds." (1:05–2:26)
+- A video's result is **~80% hook, 20% everything else**. If you're stuck under 1,000 views, you're looking at the wrong thing (music, camera, hashtags). (3:00–3:45)
+- Hashtags/SEO keywords add maybe 10%. Posting times: "the algorithm does not give a [damn] about what time you post." He posted half his videos at 1 a.m. (15:08)
+
+### H2: Copy viral hooks (4:44)
+- "You need to copy viral hooks." Build your **viral sense**: train your brain on the best data. (4:53; 6:11)
+- **3 steps:** (5:42)
+  1. Go on **TikTok**, even if you only post on Instagram. Its search and feed are better, and both platforms measure the same things (engagement, watch time). (5:47; 7:08)
+  2. Only study videos with **50K+ likes** (10K+ at a push).
+  3. Only in **your format** (talking head, vlog, how-to, list, music montage); a similar niche is fine. **"The format matters a lot more than the niche."** (7:59)
+- Write every hook down. That's your **hook bank**. Then **mash a proven hook template together with your own idea.** (8:38–9:18)
+  - e.g. "If you are tired of [problem], here's the ultimate guide to [outcome]. Take notes and thank me later."
+  - e.g. his self-development account: "Here's how to [stop pain / get outcome]. [Solution]."
+- Use simple words. Anything hard to understand makes people scroll. (9:38)
+
+### H3: Understand why it went viral (10:15)
+- Ask: **which keywords did they use?** Not SEO keywords: **"words that trigger emotion in your viewer."** (10:45)
+  - e.g. "scared of talking to women", "I hate to break it to you"; "law school", "high honors", "academic assault rifle"; "200 view jail", "algo pull". After the hook, many then hit a common objection. (11:15–12:35)
+- Build a **keyword bank** for your niche. His productivity examples: "dopamine detox", "productivity hacks", "morning routine", "6 a.m.", "lock in" (lands better than "mental health"); "zero motivation", "doom scrolling". Search **YouTube titles** in your niche to find more. (18:54–20:02)
+- **Relatable = how people actually talk:** "break your shitty habits" beats "develop better habits". "Casual… but it also has to be specific." (13:44–14:38)
+- **"Day one of Road to 10K a month is not a good hook. Day 17 of Road to Millionaire is not a good hook."** It's copied from one viral video and "doesn't play into the core principles of why things actually go viral." (18:16–18:38)
+
+### H4: Maximise the hook (20:06)
+The checklist he uses with paying coaching clients:
+1. **Clarity:** is this the clearest, most concise wording? Cut wordiness.
+2. **Keywords** that add specificity (e.g. "alone", "10K a month", "burnt out", "passive income", "AI agents").
+3. **Specificity and numbers** (e.g. "$2,000 a day", "XK per week" from YouTube titles). (22:28)
+4. **Alignment:** does the video deliver on the hook? Clickbait that lies "isn't actually that effective". Back up your claims. (23:58; 25:23)
+5. **Ideal viewer:** who are you talking to? (24:06)
+6. **Purple cow effect:** make it novel enough to stand out (e.g. "AI agents" rather than "AI"). Personal results and numbers help. (24:14–25:15)
+7. **Visuals:** can a visual make it clearer or more gripping? (25:37)
+8. **Read it aloud 5 times.** Does it feel right? (26:23)
+
+Worked example (21:23–25:03): "If you're tired of running your business 24/7 by yourself" → "If you're going broke running a dying business alone, here's the ultimate guide to using AI agents to build a passive income machine. Take notes and thank me later." One or two words can be the difference between 100K and 1M views.
+
+### H5: The consistency plateau (26:39)
+- From watching ~520 creators in his program: **month 1 ≈ 1K average views.** It feels pointless.
+- The trap: learning about hooks makes people perfectionist. They pause "to figure it out", come back, get 1K views, pause again, and the breaks get longer. "It's literally edging your learning." (27:56–28:58)
+- If you keep posting through months 1–2, you learn what makes a video good, editing basics, hooks, scripting and camera confidence. **"Things just click" around months 2–3.** (29:06–30:01)
+  - e.g. a member hit 10K followers after ~60 days and 66 posts. Prosper posted a "Road to" series daily while knocking on doors 12 hours a day for 90 days, stuck at ~3K followers, before he blew up. (30:09; 32:07)
+- "The first 30 days, it really doesn't matter what you're posting because you're just learning the fundamentals." (31:00)
+- **North star:** if you hit your follower goal, what would it actually change in your life? Remember why. (34:54)
+- His AI hook writer is trained on viral hooks and built on Claude Sonnet (Content Academy). (40:03)
 
 ---
 

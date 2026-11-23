@@ -7,16 +7,17 @@ The single source of truth for content. Every video comes from something that re
 ---
 
 ## 📍 Current position
-- **Stage:** Setup. No videos posted yet.
+- **Stage:** Setup. Starting from zero on both platforms. No videos posted yet.
 - **Agency stage being documented:** Niche locked (kitchen fitters, Surrey + Herts). Next: research calls.
-- **Next action:** Film Video #1 ("Day 1") using the script below. One take, phone, no editing beyond captions.
+- **Next action:** Finish the Launch setup checklist (accounts + bios), then film Video #1 ("Day 1") using the script below. One take, phone, no editing beyond captions.
 - **Posting streak:** 0 days
 
 ---
 
-## 🎯 Positioning (draft, confirm with user)
+## 🎯 Positioning (confirmed 2026-11-23)
 - **Who you are on camera:** A UK guy building a lead-gen agency from zero, out in the open, with real numbers.
-- **Who it's for:** People in the UK (and beyond) who want to start an online business or agency but are stuck at "thinking about it". Many have jobs, little money and no audience.
+- **Who it's for:** Aspiring entrepreneurs: people in the UK (and beyond) who want to start an online business or agency but are stuck at "thinking about it". Many have jobs, little money and no audience. Kitchen-company owners are *not* the target audience.
+- **On camera:** Face to camera, talking directly to the viewer. Comfortable on camera, so no voiceover-only formats needed.
 - **The promise:** "Watch me do the hard parts (the cold calls, the rejections, the first client) and steal what works."
 - **Why people follow:** They want to see whether it works. That open question is your hook for every episode until the first client, and then until £10K/month.
 - **Tone:** Honest, calm, a bit of grit. Show the bad days. No Lambos, no "passive income".
@@ -29,6 +30,23 @@ The single source of truth for content. Every video comes from something that re
 | **3. The Challenge** (call to action) | A small task the viewer can do today, the same one you're doing | "Have 10 conversations with strangers this week. I'm doing it too." |
 
 Rough mix: 40% Journey, 40% Lesson, 20% Challenge.
+
+## 🚀 Launch setup (starting from zero)
+- [ ] Same handle on Instagram and YouTube, built on your own name (e.g. `yourname` or `yourname.builds`), not "DNV Leads". The brand is you; the agency is the story.
+- [ ] Instagram set to a Creator account
+- [ ] Profile photo: your face, close-up, plain background (same on both)
+- [ ] Bio (pick one, edit to sound like you):
+  - "Building a UK lead-gen agency from £0 🇬🇧 | Every number, every rejection | Follow the journey ↓"
+  - "Day 1 → first client → £10K/mo. Building an agency in public. Steal what works."
+- [ ] YouTube channel banner + one-line description, same message as the bio
+- [ ] Link in bio: your YouTube channel for now (add a newsletter or waitlist later)
+
+**First 30 days goal (zero-follower stage):** 30 posts out, not views. Early videos get few views; that's normal. You're building the habit and finding your voice. Judge results from day 30, not day 3.
+
+**Zero-follower growth habits (15 min/day):**
+- Reply to every comment within the first hour of posting
+- Leave 10 genuine comments a day on bigger build-in-public and entrepreneur creators (real thoughts, never "great post 🔥")
+- Reuse your best-performing hook in a new video every week
 
 ## 🎬 Formats and cadence (sustainable around 30 hrs/week of agency work)
 | Platform | Format | How often | Time budget |
@@ -103,3 +121,5 @@ Weekly review: keep the hooks that beat your average, drop the ones that don't. 
 | Date | Decision | Why |
 |---|---|---|
 | 2026-11-23 | Build-in-public on IG + YouTube, documenting the DNV Leads agency build | Real journey = endless honest material; motivates and educates at once |
+| 2026-11-23 | Audience: aspiring entrepreneurs (not kitchen fitters). Face-to-camera. Starting from zero | User's choice |
+| 2026-11-23 | Personal handle on own name, not the agency brand | Personal brand outlives any one agency or niche |

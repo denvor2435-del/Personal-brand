@@ -11,12 +11,47 @@ The single source of truth for content. Every video comes from something that re
 - **Agency stage being documented:** Niche locked (kitchen fitters, Surrey + Herts). Next: research calls.
 - **Next action:** Pick your ideal viewer persona (one real person, T2) and answer the D1 four questions (below), then film and post **Day 1** in CapCut.
 - **Growth phase:** 1 (Fries): goal is 1,000 views per video consistently
-- **Posting streak:** 0 days
+- **Posting streak:** 0 days · **Volume engine** is live (daily minimums below, logged in `DAILY-SCOREBOARD.md`)
+
+---
+
+## 🔥 Volume engine (non-negotiables)
+Neither course promises a guaranteed result. Both say the same thing about getting the odds on your side: **outwork luck with volume, and count inputs, not outcomes** (Mino P1; Launch Lab 4.7). Log every day in `DAILY-SCOREBOARD.md`.
+
+**Daily minimums (a "zero day" doesn't exist):**
+| Input | Daily minimum | Source |
+|---|---|---|
+| Posts | **1 new video**, uploaded to Reels + Shorts (+ TikTok) | P1 |
+| Hooks copied into `hook-bank.md` | **10** (from 50K+ like videos), from week 2 | H2 |
+| Video ideas | **10 in 10 minutes** (timer) | D6 |
+| Creator reviews / genuine comments | **1** | D1, D2 |
+| B-roll clips captured | **3** (0.5x working, laptop screen, time-lapse of a calling block) | P2 |
+| Comments replied to | **all**, within the first hour | *My notes* |
+
+**Rules that protect the streak:**
+1. **Busy day = minimum viable vlog** (D5), about 20 minutes. The streak never breaks for "no time".
+2. **Keep 2 backup videos in the bank**, filmed on your lightest day. Post one if you're ill or away. *(My notes)*
+3. **Celebrate showing up, not views** (P1). The scoreboard counts inputs; views go in the tracker.
+4. **No pausing to "get better first"** (H5).
+5. **Agency dials come first.** Content happens outside the calling blocks: film in the evening, post next morning.
+
+**Volume milestones:**
+| By | Posts | Uploads (×3 platforms) | Hooks banked | Ideas written |
+|---|---|---|---|---|
+| Day 7 | 7 | 21 | — | 70 |
+| Day 30 | 30 | 90 | 230 | 300 |
+| Day 60 | 60 | 180 | 530 | 600 |
+| Day 90 | 90 | 270 | 830 | 900 |
+
+For scale: Mino's member who hit 10K followers had posted 66 times in ~60 days (H5). Expect ~1K views a video for months 1–2 (H5).
+
+> **My notes:** TikTok is added because Mino grew mainly there and it's the same file, so you triple the distribution for about 2 minutes extra. It's optional.
 
 ---
 
 ## 🎯 Positioning (confirmed 2026-11-23)
-- **Who you are on camera:** A UK guy building a lead-gen agency from zero, out in the open, with real numbers.
+- **Who you are on camera:** A UK hospitality kitchen worker building a lead-gen agency that helps sell kitchens, from zero, out in the open, with real numbers. **That kitchen-to-kitchens twist is your purple cow (H4).**
+- **Your why (your words):** "I know I have way too much potential and I don't want to waste it working hospitality kitchens… I see myself living the Lamborghini lifestyle." Say the Lambo dream with a self-roast, not a flex (S6), until you've earned the results.
 - **Who it's for:** Aspiring entrepreneurs: people who want to start an online business or agency but are stuck at "thinking about it". Many have jobs, little money and no audience. Kitchen-company owners are *not* the target audience.
 - **On camera:** Talking head, straight to the viewer (Mino's whole strategy is talking-head videos about your life, P1).
 - **How you help people (D4 Q1, draft):** "Show people stuck on step one that you can start a real business from zero, and get them to take one step today."
@@ -26,11 +61,11 @@ The single source of truth for content. Every video comes from something that re
 
 ## 🛣️ The series: "Road to X" (D4)
 Mino's main growth hack is a **specific, binary goal** you document every day: "Day N of Road to X".
-- **Recommended goal:** **"Road to £10K/month with my agency"** (draft, user to confirm).
+- **Goal (confirmed 2026-11-24):** **"Road to quitting my 9–5"**. Quit when the agency makes **£5K/month**. Milestone 1: **first paying client**.
   - It's binary: there's a day you hit it. It lasts long enough for a real series and covers first client → second → £10K.
   - The first client becomes the big milestone episode along the way.
   - Alternative: "Road to my first agency client". Shorter, but you'd need a new goal within weeks. Mino says switching is fine (D4).
-- **Video opener:** put **"Day [N] · Road to £10K/month"** on screen, on the cover and in the caption, then **open with a real hook** (H3: the "Day N of Road to X" line alone isn't a good hook). Exception: week 1 uses Mino's D1–D4 scripts as written, because the goal that week is posting, not views.
+- **Video opener:** put **"Day [N] · Road to quitting my 9–5"** on screen, on the cover and in the caption, then **open with a real hook** (H3: the "Day N of Road to X" line alone isn't a good hook). Exception: week 1 uses Mino's D1–D4 scripts as written, because the goal that week is posting, not views.
 - **Ending:** make the follow **earned** (S5): build it off your last line and tie it to tomorrow's episode, e.g. "…so tomorrow I make my first 100 cold calls. Follow if you want to see how it goes." Always end on something positive (D4).
 - **Tone (S6):** a friend who just found something that works, not a guru. Same level as the viewer, with a self-roast joke where it fits. Your own slang, UK English.
 
@@ -89,7 +124,7 @@ Mino's main growth hack is a **specific, binary goal** you document every day: "
 - [ ] Bio in Mino's 4-line shape (D4), draft:
   - Line 1: `📍 [Your town], UK 🇬🇧` (optionally age / heritage)
   - Line 2: a tagline about you, e.g. `Building a lead-gen agency from £0`
-  - Line 3: `Documenting every day till £10K/month`
+  - Line 3: `Documenting every day till I quit my 9–5`
   - Line 4 (later, once there's an offer): CTA + link
 - [ ] YouTube channel: same name, photo and one-line description
 - [ ] CapCut installed (teleprompter, auto captions)

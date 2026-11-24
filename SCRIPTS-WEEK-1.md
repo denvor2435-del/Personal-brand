@@ -17,7 +17,7 @@ Documenting every day till I quit my 9–5
 
 ## Day 1: Intro (D1)
 **On screen:** Day 1
-> Today is day one of posting every day for seven days as a [age]-year-old who works in a hospitality kitchen, building an agency that helps sell kitchens. Zero clients.
+> Today is day one of posting every day for seven days as a 21-year-old who works in a hospitality kitchen, building an agency that helps sell kitchens. Zero clients.
 > I'm starting this because I know I've got way too much potential to waste it on a kitchen line. I'm going to show you every step until I quit. First goal: one paying client.
 > Personally, I'm scared people I know will see this and think I've lost the plot.
 > So if you've got that same fear of what people will think, join me. Do it anyway.
